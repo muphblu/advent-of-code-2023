@@ -1,5 +1,3 @@
-using System.Drawing;
-
 class Task2B
 {
     public static string Solve(string[] input)
